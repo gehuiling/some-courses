@@ -1,4 +1,4 @@
- **入门**课程收藏：
+ ### 网课、学习资料收藏：
 
 + **Node.js：** (https://www.bilibili.com/video/av27670326)
 
@@ -9,3 +9,5 @@
 + **Kafka：** (https://www.bilibili.com/video/av35354301)
 
 + **Flink：** (https://www.bilibili.com/video/av45615081)
+
++ **ECMAScript 6 ：** (http://es6.ruanyifeng.com/)
