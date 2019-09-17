@@ -12,5 +12,7 @@
 
 + **ECMAScript 6 ：** (http://es6.ruanyifeng.com/)
 
++ **Webpack：** (https://www.bilibili.com/video/av46015080?t=161)
+
 + **Webpack 打包 React：** (https://www.bilibili.com/video/av46100033)
 
